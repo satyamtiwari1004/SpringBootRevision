@@ -143,4 +143,4 @@ Access the application at `http://localhost:8080`. Use the Swagger UI to explore
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/satyamtiwari1004/SpringBootRevision/blob/dev/LICENSE) file for details.
