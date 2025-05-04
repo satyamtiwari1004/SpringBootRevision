@@ -118,6 +118,13 @@ This project aims to provide a hands-on experience with Spring Boot and its vari
     mvn spring-boot:run
     ```
 
+## Swagger UI
+
+The Swagger UI is available at `http://localhost:8080/swagger-ui.html`.
+
+### Snapshot
+![Swagger UI](src/main/resources/additional/swaggerui-snapshot.png)
+
 ## Usage
 
 Access the application at `http://localhost:8080`. Use the Swagger UI to explore the API endpoints at `http://localhost:8080/swagger-ui.html`.
