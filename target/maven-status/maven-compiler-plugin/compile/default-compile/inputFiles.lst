@@ -1,4 +1,7 @@
-/Users/satyamtiwari/Desktop/Test/Spring_revision/src/main/java/com/satyam/SpringBoot/SpringBootRevisionApplication.java
-/Users/satyamtiwari/Desktop/Test/Spring_revision/src/main/java/com/satyam/SpringBoot/controller/SpringBootRevisionController.java
-/Users/satyamtiwari/Desktop/Test/Spring_revision/src/main/java/com/satyam/SpringBoot/dao/RequestData.java
-/Users/satyamtiwari/Desktop/Test/Spring_revision/src/main/java/com/satyam/SpringBoot/Service/DataProcessor.java
+/Users/satyamtiwari/Documents/WorkSpace/SpringBootRevision/src/main/java/com/satyam/SpringBoot/SpringBootRevisionApplication.java
+/Users/satyamtiwari/Documents/WorkSpace/SpringBootRevision/src/main/java/com/satyam/SpringBoot/repo/TestRepo.java
+/Users/satyamtiwari/Documents/WorkSpace/SpringBootRevision/src/main/java/com/satyam/SpringBoot/Service/DataProcessor.java
+/Users/satyamtiwari/Documents/WorkSpace/SpringBootRevision/src/main/java/com/satyam/SpringBoot/config/SwaggerConfig.java
+/Users/satyamtiwari/Documents/WorkSpace/SpringBootRevision/src/main/java/com/satyam/SpringBoot/dao/TestEntity.java
+/Users/satyamtiwari/Documents/WorkSpace/SpringBootRevision/src/main/java/com/satyam/SpringBoot/dao/RequestData.java
+/Users/satyamtiwari/Documents/WorkSpace/SpringBootRevision/src/main/java/com/satyam/SpringBoot/controller/SpringBootRevisionController.java
